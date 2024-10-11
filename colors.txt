@@ -1,0 +1,21 @@
+Seznam barev použitých v projektu:
+
+#333 (tmavě šedá):
+    Barva textu v celém těle stránky (body)
+    Nadpis v záhlaví (header h1)
+    Barva pozadí navigace (nav)
+    Barva pozadí zápatí (footer)
+
+white (bílá):
+    Barva textu odkazů v navigaci (nav ul li a)
+    Barva pozadí sekcí (section)
+    Barva textu v zápatí (footer)
+    Použitá jako barva textu odkazů v zápatí (footer a)
+
+#E7FBE6 (světle zelená):
+    Barva pozadí těla stránky (body)
+    Barva odkazů v zápatí (footer a)
+
+#86AB89 (středně zelená):
+    Barva pozadí záhlaví (header)
+    Barva okrajů tabulky, buněk a záhlaví tabulky (table, th, td)
